@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunshine1247474.github.io/roomfit-goods/sitemap.xml
